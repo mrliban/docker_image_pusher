@@ -5,5 +5,6 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 dingdangdog/cashbook:4.1.4-sqlite
-WatchTower
-
+containrrr/watchtower
+qdtoday/qd
+helloz/onenav
