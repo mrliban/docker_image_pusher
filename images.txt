@@ -8,3 +8,4 @@ dingdangdog/cashbook:4.1.4-sqlite
 containrrr/watchtower
 qdtoday/qd
 helloz/onenav
+vaultwarden/server
