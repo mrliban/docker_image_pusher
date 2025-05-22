@@ -10,3 +10,5 @@ qdtoday/qd
 helloz/onenav
 vaultwarden/server
 gdy666/lucky
+adguard/adguardhome
+pihole/pihole
