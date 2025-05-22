@@ -9,3 +9,4 @@ containrrr/watchtower
 qdtoday/qd
 helloz/onenav
 vaultwarden/server
+gdy666/lucky
