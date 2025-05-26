@@ -12,3 +12,4 @@ vaultwarden/server
 gdy666/lucky
 adguard/adguardhome
 pihole/pihole
+dgtlmoon/changedetection.io
