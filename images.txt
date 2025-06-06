@@ -3,16 +3,18 @@
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-dingdangdog/cashbook:4.1.4-sqlite
 containrrr/watchtower
+#是一款基于 ​HAR 编辑器​ 和 ​Tornado 服务端​ 的开源 HTTP 定时任务自动执行框架，主要用于 ​自动签到、定时请求、数据抓取​ 等场景。
 qdtoday/qd
+#一款开源的 ​书签（导航）管理程序
 helloz/onenav
+#密码管理工具
 vaultwarden/server
+#反代工具
 gdy666/lucky
+#广告拦截
 adguard/adguardhome
+#一个开源的 ​DNS 级广告拦截器
 pihole/pihole
+#一款开源的网页变化监控工具
 dgtlmoon/changedetection.io
-ghcr.io/gramps-project/grampsweb:latest
-ghcr.io/gramps-project/grampsweb
-docker.io/library/redis:7.2.4-alpine
