@@ -13,3 +13,6 @@ gdy666/lucky
 adguard/adguardhome
 pihole/pihole
 dgtlmoon/changedetection.io
+ghcr.io/gramps-project/grampsweb:latest
+ghcr.io/gramps-project/grampsweb
+docker.io/library/redis:7.2.4-alpine
