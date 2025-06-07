@@ -18,6 +18,3 @@ adguard/adguardhome
 pihole/pihole
 #一款开源的网页变化监控工具
 dgtlmoon/changedetection.io
-ghcr.io/gramps-project/grampsweb:latest
-docker.io/library/redis:7.2.4-alpine
-ghcr.io/davidmstraub/gramps-postgres:latest
