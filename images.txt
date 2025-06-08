@@ -18,3 +18,11 @@ adguard/adguardhome
 pihole/pihole
 #一款开源的网页变化监控工具
 dgtlmoon/changedetection.io
+#IT从业者工具包
+corentinth/it-tools
+#PDF转换工作
+frooodle/s-pdf
+#视频下载工具，支持m3u8、rtsp、rtmp、mp4等格式
+h55205l/ffandown
+#OpenWrt的旁路由
+soroke/istoreos
