@@ -25,4 +25,4 @@ frooodle/s-pdf
 #视频下载工具，支持m3u8、rtsp、rtmp、mp4等格式
 h55205l/ffandown
 #OpenWrt的旁路由
-soroke/istoreos
+#soroke/istoreos
