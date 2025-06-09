@@ -24,5 +24,5 @@ corentinth/it-tools
 frooodle/s-pdf
 #视频下载工具，支持m3u8、rtsp、rtmp、mp4等格式
 h55205l/ffandown
-#OpenWrt的旁路由
-#soroke/istoreos
+#专注于容器更新提醒和手动一键更新，提供可视化界面（如绿联NAS的Web操作）
+0nlylty/dockercopilot
