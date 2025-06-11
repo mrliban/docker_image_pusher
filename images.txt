@@ -26,3 +26,8 @@ frooodle/s-pdf
 h55205l/ffandown
 #专注于容器更新提醒和手动一键更新，提供可视化界面（如绿联NAS的Web操作）
 0nlylty/dockercopilot
+#量化相关
+timescale/timescaledb:2.10-pg14
+freqtradeorg/freqtrade:stable
+grafana/grafana:10.0.0
+prom/prometheus
