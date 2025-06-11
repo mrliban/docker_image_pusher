@@ -1,31 +1,3 @@
-#nginx
-#支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-#支持指定架构
-containrrr/watchtower
-#是一款基于 ​HAR 编辑器​ 和 ​Tornado 服务端​ 的开源 HTTP 定时任务自动执行框架，主要用于 ​自动签到、定时请求、数据抓取​ 等场景。
-qdtoday/qd
-#一款开源的 ​书签（导航）管理程序
-helloz/onenav
-#密码管理工具
-vaultwarden/server
-#反代工具
-gdy666/lucky
-#广告拦截
-adguard/adguardhome
-#一个开源的 ​DNS 级广告拦截器
-pihole/pihole
-#一款开源的网页变化监控工具
-dgtlmoon/changedetection.io
-#IT从业者工具包
-corentinth/it-tools
-#PDF转换工作
-frooodle/s-pdf
-#视频下载工具，支持m3u8、rtsp、rtmp、mp4等格式
-h55205l/ffandown
-#专注于容器更新提醒和手动一键更新，提供可视化界面（如绿联NAS的Web操作）
-0nlylty/dockercopilot
 #量化相关
 timescale/timescaledb:2.10-pg14
 freqtradeorg/freqtrade:stable
