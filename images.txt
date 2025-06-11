@@ -1,5 +1,5 @@
 #量化相关
-timescale/timescaledb:2.10-pg14
-freqtradeorg/freqtrade:stable
-grafana/grafana:10.0.0
+timescale/timescaledb
+freqtradeorg/freqtrade
+grafana/grafana
 prom/prometheus
