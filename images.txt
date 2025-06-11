@@ -1,5 +1,5 @@
 #量化相关
-timescale/timescaledb
 freqtradeorg/freqtrade
 grafana/grafana
 prom/prometheus
+timescale/timescaledb
