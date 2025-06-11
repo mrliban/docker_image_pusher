@@ -2,4 +2,4 @@
 freqtradeorg/freqtrade
 grafana/grafana
 prom/prometheus
-timescale/timescaledb
+timescale/timescaledb:latest-pg17
