@@ -4,6 +4,6 @@ grafana/grafana
 prom/prometheus
 timescale/timescaledb:latest-pg17
 prom/node-exporter:v1.8.1
-advplyr/audiobookshelf
-gitlab/gitlab-ce
-homeassistant/home-assistant
+advplyr/audiobookshelf:2.24.0
+gitlab/gitlab-ce:17.10.8-ce.0
+homeassistant/home-assistant:2025.6
