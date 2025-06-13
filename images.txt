@@ -3,3 +3,4 @@ freqtradeorg/freqtrade
 grafana/grafana
 prom/prometheus
 timescale/timescaledb:latest-pg17
+prom/node-exporter:v1.8.1
