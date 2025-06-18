@@ -3,3 +3,4 @@ mcr.microsoft.com/mssql/server:2022-latest
 vaultwarden/server:1.33.2
 vaultwarden/server:1.34.1
 homeassistant/home-assistant:2025.6.1
+advplyr/audiobookshelf:2.25.1
