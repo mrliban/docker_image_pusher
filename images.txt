@@ -1,2 +1,3 @@
 xgheaven/homebox
 mcr.microsoft.com/mssql/server:2022-latest
+vaultwarden/server:1.34.1
