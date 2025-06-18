@@ -1,4 +1,4 @@
 xgheaven/homebox
 mcr.microsoft.com/mssql/server:2022-latest
-hub.docker.com/vaultwarden/server:1.33.2
-hub.docker.com/vaultwarden/server:1.34.1
+vaultwarden/server:1.33.2
+vaultwarden/server:1.34.1
