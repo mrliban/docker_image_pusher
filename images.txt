@@ -11,4 +11,4 @@ portainer/portainer-ce:2.31.0
 portainer/portainer-ce:2.31.0-alpine
 timescale/timescaledb-postgis:2.8-pg14
 clickhouse/clickhouse-server:23.3
-xgheaven/homebox:
+xgheaven/homebox
