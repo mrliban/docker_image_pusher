@@ -4,3 +4,4 @@ vaultwarden/server:1.33.2
 vaultwarden/server:1.34.1
 homeassistant/home-assistant:2025.6.1
 advplyr/audiobookshelf:2.25.1
+gitlab/gitlab-ce:17.11.4-ce.0
