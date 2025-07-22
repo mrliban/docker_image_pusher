@@ -5,4 +5,4 @@ advplyr/audiobookshelf
 gitlab/gitlab-ce
 dreamacro/clash
 haishanh/yacd
-linuxserver/wireguard
+linuxserver/wireguard:legacy
