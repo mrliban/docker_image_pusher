@@ -1,1 +1,1 @@
-linuxserver/wireguard:legacy
+helloz/onenav
